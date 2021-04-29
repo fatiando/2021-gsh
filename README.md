@@ -38,6 +38,21 @@ We invite everyone to get involved in the development, whether it's through codi
     * CONICET, Argentina
     * https://aguspesce.github.io
 
+## Resources
+
+Find out more:
+
+* Harmonica documentation: https://www.fatiando.org/harmonica
+* Boule documentation: https://www.fatiando.org/boule
+* Tutorial for Boule and Harmonica at Transform 2021: https://youtu.be/0bxZcCAr6bw and https://github.com/fatiando/transform21
+* Presentation at EGU2021: https://doi.org/10.5194/egusphere-egu21-8291 and https://github.com/fatiando/egu2021
+
+Get involved in the project:
+
+* Join our Slack chatroom: http://contact.fatiando.org
+* Come to an open community call: https://www.youtube.com/playlist?list=PLPA_RM8wsOqIEBLICo3v7f_A1WnLcwJld
+* Follow Fatiando a Terra on Twitter: https://twitter.com/fatiandoaterra
+
 ## Bios
 
 ### Agustina Pesce
