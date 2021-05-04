@@ -5,9 +5,8 @@ to introduce the project, in particular Boule and Harmonica.
 
 | | Info |
 |--:|:------|
-| When | 22 May 2021 XX:XX UTC |
-| Slides | Add a link to the slides |
-| Recording | Will this be recorded? |
+| When | 20 May 2021 16:00 UTC-5 |
+| Slides | https://www.fatiando.org/2021-gsh |
 
 ## Notes and TODO
 
