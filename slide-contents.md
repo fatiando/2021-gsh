@@ -65,23 +65,34 @@ With some text and maths $$\int \rho dV$$
 
 ## How to Get Involved
 
-_Fatiando is not just an Open-source project, **it is a community**._
+_**Fatiando** is not just an Open-source project, **it is a community**._
 
-**Your help is always welcome!** ... You can:
+**Your help is always welcome!**
 
+There are many ways to participate, you can:
+
+<div class="container">
+<div class="col-left">
 <ul>
-<li class="fragment">Give feedback</li>
+<li class="fragment"> Writing code</li>
 <li class="fragment">Improve documentation or examples</li>
+<li class="fragment">Give feedback</li>
+</lu>
+</div>
+<div class="col-right">
+<ul>
 <li class="fragment">Join the conversation</li>
 <li class="fragment">Share your experience </li>
 <li class="fragment">Help guide the future development</li>
 </ul>
+</div>
+</div>
 
 ---
 
 ## How to Get Involved
 
-<ul style="list-style:none;">
+<ul style="list-style:none; text-align:left">
 <li class="fragment">
 <i class="fab fa-slack"></i> <a href="http://contact.fatiando.org/">Slack</a>:
 where we chat about meetings, events, questions, experiences.
@@ -95,6 +106,13 @@ where we discuss development details and review code.
 <a href="http://calendar.fatiando.org">Community Call</a>: regular video calls
 </li>
 </ul>
+
+<div class="fragment">
+
+**You are welcome to be a member and a contributor!**
+<i class="fas fa-rocket"></i>
+
+</div>
 
 ---
 
@@ -118,6 +136,7 @@ and <a href="https://www.youtube.com/watch?v=0bxZcCAr6bwab_channel=SoftwareUnder
 </li>
 <li class="fragment">
 <i class="fa fa-cog"></i>
+Take a look at the
 <a href="https://github.com/fatiando/contributing/blob/master/CONTRIBUTING.md"> Contributing guidelines</a>
 </li>
 </ul>
