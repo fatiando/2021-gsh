@@ -63,11 +63,39 @@ With some text and maths $$\int \rho dV$$
 
 ---
 
+<!-- .slide: class="slide-transition" data-background-color="rgb(25, 34, 55)" -->
+
+<div class="centered">
+<div>
+
+# Live Coding...
+
+</div>
+</div>
+
+---
+
+## Fatiando in the wild
+
+<img src="papers.svg">
+
+---
+
+<!-- .slide: class="slide-transition" data-background-color="rgb(25, 34, 55)" -->
+
+<div class="centered">
+<div>
+
+## **Fatiando** is not just an Open-source project, **it is a community**
+
+<i class="fas fa-users fa-2x"></i>
+
+</div>
+</div>
+
+---
+
 ## How to Get Involved
-
-_**Fatiando** is not just an Open-source project, **it is a community**._
-
-**Your help is always welcome!**
 
 There are many ways to participate, you can:
 
@@ -86,6 +114,12 @@ There are many ways to participate, you can:
 <li class="fragment">Help guide the future development</li>
 </ul>
 </div>
+</div>
+
+<div class="fragment">
+
+**Your help is always welcome!**
+
 </div>
 
 ---
@@ -116,7 +150,7 @@ where we discuss development details and review code.
 
 ---
 
-## Fatiando Website Resources
+## How to Get Started
 
 <ul style="list-style:none;">
 <li class="fragment">
@@ -140,28 +174,6 @@ Take a look at the
 <a href="https://github.com/fatiando/contributing/blob/master/CONTRIBUTING.md"> Contributing guidelines</a>
 </li>
 </ul>
-
----
-
-## Fatiando in the wild
-
-<div style="font-size:12px">
-<ul>
-<li> <a href="https://meetingorganizer.copernicus.org/EGU21/EGU21-3101.html">A
-comparison between sea-bottom gravity and satellite altimeter-derived gravity
-in coastal environments...</a></li>
-<li><a href="https://eartharxiv.org/repository/view/1917/">Uncertainty analysis
-of gravity disturbance for geothermal exploration in...</a></li>
-<li><a href="https://www.leouieda.com/talks/egu2020.html">Evaluating the
-accuracy of equivalent-source predictions using cross-validation</a></li>
-<li><a href="https://www.leouieda.com/posters/agu2018.html">Coupled
-interpolation of three-component GPS velocities</a></li>
-<li><a href="https://santisoler.github.io/presentations/egu2020.html">A better
-strategy for interpolating gravity and magnetic data</a></li>
-<li><a href="https://www.compgeolab.org/publications/eql-gradient-boosted.html">
-Gradient-boosted equivalent sources</a></li>
-</ul>
-</div>
 
 ---
 
