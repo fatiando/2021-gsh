@@ -5,20 +5,15 @@ The reveal.js configuration can be found in index.html
 
 <!-- .slide: class="slide-title" data-background-color="#000000" data-background-image="assets/background.svg" data-background-repeat="no-repeat" data-background-position="center" -->
 
-<div class="container talk-title">
-<div class="col-title-img">
-
-<img src="assets/fatiando-logo.svg" style="height: 100%; width: auto;">
-
-</div>
-<div class="col-title">
+<div class="talk-title">
 
 # Fatiando a Terra
 
 ## open-source tools for geophysics
 
 </div>
-</div>
+
+<img src="assets/fatiando-logo.svg" style="width: 8%;">
 
 <div class="talk-authors">
 
@@ -60,11 +55,9 @@ Feel free to screenshot/share/reuse/remix this presentation
 <div class="centered">
 <div>
 
-# The Fatiando a Terra project
+# First, a bit of history
 
-*First, a bit of history*
-
-Put the different iterations of the logo here
+<img src="assets/logo-evolution.svg">
 
 </div>
 </div>
