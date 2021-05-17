@@ -124,7 +124,7 @@ from seismic to potential fields and heat flow.
 
 <!-- .slide: data-background-image="assets/fatiando-docs-v0.1.jpg" data-background-size="contain" data-background-repeat="no-repeat" data-background-color="#000000" -->
 
-<div class="r-stretch bottom-right bottom-dark">
+<div class="r-stretch bottom-left bottom-dark">
 
 First documentation built using [sphinx](https://www.sphinx-doc.org) for
 **v0.1** (2013). doi:[10.5281/zenodo.16207](https://doi.org/10.5281/zenodo.16207)
@@ -135,7 +135,7 @@ First documentation built using [sphinx](https://www.sphinx-doc.org) for
 
 <!-- .slide: data-background-image="assets/fatiando-docs-v0.2.jpg" data-background-size="contain" data-background-repeat="no-repeat" data-background-color="#000000" -->
 
-<div class="r-stretch bottom-right bottom-dark">
+<div class="r-stretch bottom-left bottom-dark">
 
 Updated documentation for **v0.2** (2014). doi:[10.6084/m9.figshare.1115194](https://doi.org/10.6084/m9.figshare.1115194)
 
@@ -143,25 +143,82 @@ Updated documentation for **v0.2** (2014). doi:[10.6084/m9.figshare.1115194](htt
 
 ---
 
-<!-- .slide: data-background-image="assets/fatiando-docs-v0.4.jpg" data-background-size="contain" data-background-repeat="no-repeat" data-background-color="#000000" -->
+<!-- .slide: data-background-image="assets/fatiando-docs-v0.5.jpg" data-background-size="contain" data-background-repeat="no-repeat" data-background-color="#000000" -->
 
-<div class="r-stretch bottom-right bottom-dark">
+<div class="r-stretch bottom-left bottom-dark">
 
-Last update for **v0.4** (2016). doi:[10.5281/zenodo.49087](https://doi.org/10.5281/zenodo.49087)
+Last update for **v0.5** (2016). doi:[10.5281/zenodo.157746](https://doi.org/10.5281/zenodo.157746)
 
 </div>
 
 ---
 
-Used in my own research and teaching. Include video of seismic notebook and seed inversion
+<div class="container">
+<div class="col-left" style="padding-right: 5%">
+
+# <i class="far fa-thumbs-up" style="margin-right: 20px;"></i> The good parts
+
+<hr>
+
+<ul class="fa-ul">
+
+<li>
+<span class="fa-li"> <i class="fa fa-lightbulb fa-fw"></i> </span>
+State-of-the-art algorithms
+</li>
+
+<li>
+<span class="fa-li"> <i class="fa fa-file-alt fa-fw"></i> </span>
+Used in several thesis & papers (>70 citations)
+</li>
+
+<li>
+<span class="fa-li"> <i class="fa fa-users fa-fw"></i> </span>
+3-4 active contributors
+</li>
+
+<li>
+<span class="fa-li"> <i class="fa fa-chalkboard-teacher fa-fw"></i> </span>
+Teaching through simulation
+</li>
+
+</ul>
+
+</div>
+<div class="col-right fragment" style="padding-left: 5%">
+
+# <i class="far fa-thumbs-down" style="margin-right: 20px;"></i> The bad parts
+
+<hr>
+
+<ul class="fa-ul">
+
+<li>
+<span class="fa-li"> <i class="fa fa-gamepad fa-fw"></i> </span>
+Too many toy problems and experimental code
+</li>
+
+<li>
+<span class="fa-li"> <i class="fas fa-vial fa-fw"></i> </span>
+Not designed for testability
+</li>
+
+<li>
+<span class="fa-li"> <i class="fa fa-tools fa-fw"></i> </span>
+Difficult to maintain
+</li>
+
+<li>
+<span class="fa-li"> <i class="fa fa-landmark fa-fw"></i> </span>
+Unstable foundations for growth
+</li>
+
+</ul>
+</div>
 
 ---
 
-Used by others
-
----
-
-Success and failures of the `fatiando` package
+New tools
 
 ---
 
