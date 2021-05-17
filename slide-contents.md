@@ -51,13 +51,24 @@ Feel free to screenshot/share/reuse/remix this presentation
 
 ---
 
+<!-- .slide: data-background-video="assets/brasil-sao-paulo-rio.mp4" data-background-size="contain" data-background-color="#000000" -->
+
+<div class="r-stretch bottom-right">
+
+Our journey starts in Southeastern Brazil, specifically in São Paulo and Rio de
+Janeiro
+
+</div>
+
+---
+
 <!-- .slide: data-background-image="assets/fatiando-as-a-gravmag-gui.svg" data-background-size="contain" data-background-repeat="no-repeat" data-background-color="#000000" -->
 
 <div class="centered">
 <div class="quote">
 
-Started ~2008 as a GUI for **2D modelling** developed with
-fellow **undergrads** at USP, Brazil.
+Started around 2008 as a GUI for **2D modelling** developed with
+fellow **undergrads** at USP, Brazil
 
 </div>
 </div>
@@ -79,7 +90,7 @@ Actual diagram of the GUI workflow retrieved from our version control system.
 <div class="r-stretch bottom-right">
 
 Transitioned into the *fatiando* **Python library** in 2010 when I started my
-MSc.
+MSc in Rio
 
 </div>
 
