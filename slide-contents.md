@@ -5,14 +5,27 @@ The reveal.js configuration can be found in index.html
 
 <!-- .slide: class="slide-title" data-background-color="#000000" data-background-image="assets/background.svg" data-background-repeat="no-repeat" data-background-position="center" -->
 
+<div class="container talk-title">
+<div class="col-title-img">
 
-# Fatiando a Terra:<br>open-source tools for geophysics
+<img src="assets/fatiando-logo.svg" style="height: 100%; width: auto;">
 
-## Leonardo Uieda, Santiago Soler, Agustina Pesce
+</div>
+<div class="col-title">
 
-Geophysical Society of Houston <span style="margin: 0 20px">|</span> 22 May 2021
+# Fatiando a Terra
 
-<div class="r-stretch">
+## open-source tools for geophysics
+
+</div>
+</div>
+
+<div class="talk-authors">
+
+### Leonardo Uieda, Santiago Soler, Agustina Pesce
+
+Geophysical Society of Houston <span style="margin: 0 20px">|</span> 20 May 2021
+
 </div>
 
 <img src="assets/university-of-liverpool-white.png" class="title-logo">
