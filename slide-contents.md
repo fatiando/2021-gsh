@@ -91,6 +91,7 @@ Actual diagram of the GUI workflow retrieved from our version control system.
 
 Transitioned into the *fatiando* **Python library** in 2010 when I started my
 MSc in Rio
+(commit: [928515b](https://github.com/fatiando/fatiando/commit/928515b0fcfdccecbc4f661ed2469390ef43ec1d))
 
 </div>
 
@@ -105,6 +106,62 @@ MSc in Rio
 version control (went through SVN, Mercurial, and Git), and more.
 
 </div>
+
+---
+
+<!-- .slide: data-background-image="assets/fatiando-first-gallery.jpg" data-background-size="contain" data-background-repeat="no-repeat" data-background-color="#000000" -->
+
+<div class="r-stretch bottom-left bottom-dark">
+
+Around 2011 we built the first website and gallery. We ended up building a 2D
+GUI and much more,
+<br>
+from seismic to potential fields and heat flow.
+
+</div>
+
+---
+
+<!-- .slide: data-background-image="assets/fatiando-docs-v0.1.jpg" data-background-size="contain" data-background-repeat="no-repeat" data-background-color="#000000" -->
+
+<div class="r-stretch bottom-right bottom-dark">
+
+First documentation built using [sphinx](https://www.sphinx-doc.org) for
+**v0.1** (2013). doi:[10.5281/zenodo.16207](https://doi.org/10.5281/zenodo.16207)
+
+</div>
+
+---
+
+<!-- .slide: data-background-image="assets/fatiando-docs-v0.2.jpg" data-background-size="contain" data-background-repeat="no-repeat" data-background-color="#000000" -->
+
+<div class="r-stretch bottom-right bottom-dark">
+
+Updated documentation for **v0.2** (2014). doi:[10.6084/m9.figshare.1115194](https://doi.org/10.6084/m9.figshare.1115194)
+
+</div>
+
+---
+
+<!-- .slide: data-background-image="assets/fatiando-docs-v0.4.jpg" data-background-size="contain" data-background-repeat="no-repeat" data-background-color="#000000" -->
+
+<div class="r-stretch bottom-right bottom-dark">
+
+Last update for **v0.4** (2016). doi:[10.5281/zenodo.49087](https://doi.org/10.5281/zenodo.49087)
+
+</div>
+
+---
+
+Used in my own research and teaching. Include video of seismic notebook and seed inversion
+
+---
+
+Used by others
+
+---
+
+Success and failures of the `fatiando` package
 
 ---
 
