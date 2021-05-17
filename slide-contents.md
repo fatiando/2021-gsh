@@ -37,36 +37,41 @@ Feel free to screenshot/share/reuse/remix this presentation
 
 ---
 
-<div class="centered">
-<div class="huge">
-
-1. What we'll do in this talk
-1. Intro
-1. Demo
-1. Getting involved
-
-</div>
-</div>
-
----
-
-<!-- .slide: class="slide-transition" data-background-color="rgb(25, 34, 55)" -->
+<!-- .slide: class="slide-transition" data-background-color="#000000" -->
 
 <div class="centered">
 <div>
 
-# First, a bit of history
+# A bit of history
 
-<img src="assets/logo-evolution.svg">
+<img src="assets/logo-evolution.svg" style="margin-top: 5%;">
 
 </div>
 </div>
 
 ---
 
-## Normal slide
+<!-- .slide: class="slide-transition" data-background-color="#000000" data-background-image="assets/demo-time.gif" data-background-repeat="no-repeat" data-background-position="center" data-background-opacity="70%" -->
 
-With some text and maths $$\int \rho dV$$
+<div class="centered">
+<div>
+
+# Demo time!
+
+</div>
+</div>
+
+---
+
+<!-- .slide: class="slide-transition" data-background-color="#000000" -->
+
+<div class="centered">
+<div>
+
+# Getting involved
+
+</div>
+</div>
 
 ---
 
