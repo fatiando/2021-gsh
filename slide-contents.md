@@ -37,7 +37,7 @@ Feel free to screenshot/share/reuse/remix this presentation
 
 ---
 
-<!-- .slide: class="slide-transition" data-background-color="#000000" -->
+<!-- .slide: class="slide-transition" data-background-color="#222222" -->
 
 <div class="centered">
 <div>
@@ -47,6 +47,52 @@ Feel free to screenshot/share/reuse/remix this presentation
 <img src="assets/logo-evolution.svg" style="margin-top: 5%;">
 
 </div>
+</div>
+
+---
+
+<!-- .slide: data-background-image="assets/fatiando-as-a-gravmag-gui.svg" data-background-size="contain" data-background-repeat="no-repeat" data-background-color="#000000" -->
+
+<div class="centered">
+<div class="quote">
+
+Started ~2008 as a GUI for **2D modelling** developed with
+fellow **undergrads** at USP, Brazil.
+
+</div>
+</div>
+
+---
+
+<!-- .slide: data-background-image="assets/fatiando-as-a-gravmag-gui.svg" data-background-size="contain" data-background-repeat="no-repeat" data-background-color="#000000" -->
+
+<div class="r-stretch bottom-right bottom-dark">
+
+Actual diagram of the GUI workflow retrieved from our version control system.
+
+</div>
+
+---
+
+<!-- .slide: data-background-image="assets/fatiando-first-commit.svg" data-background-size="contain" data-background-repeat="no-repeat" data-background-color="#000000" -->
+
+<div class="r-stretch bottom-right">
+
+Transitioned into the *fatiando* **Python library** in 2010 when I started my
+MSc.
+
+</div>
+
+---
+
+<!-- .slide: data-background-image="assets/fatiando-first-commit-vcs.svg" data-background-size="contain" data-background-repeat="no-repeat" data-background-color="#000000" -->
+
+<div class="r-stretch bottom-right">
+
+**Learned a lot** about software development: tests, packaging, documentation,
+<br>
+version control (went through SVN, Mercurial, and Git), and more.
+
 </div>
 
 ---
@@ -63,12 +109,12 @@ Feel free to screenshot/share/reuse/remix this presentation
 
 ---
 
-<!-- .slide: class="slide-transition" data-background-color="#000000" -->
+<!-- .slide: class="slide-transition" data-background-color="#222222" -->
 
 <div class="centered">
 <div>
 
-# Getting involved
+# Fatiando is not just code,<br> it's a **community**
 
 </div>
 </div>
