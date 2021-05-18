@@ -77,7 +77,7 @@ With some text and maths $$\int \rho dV$$
 
 ## Fatiando in the wild
 
-<img src="papers.svg">
+<img src="img/papers.svg">
 
 ---
 
@@ -139,13 +139,24 @@ where we discuss development details and review code.
 <i class="fa fa-microphone-alt"></i>
 <a href="http://calendar.fatiando.org">Community Call</a>: regular video calls
 </li>
+<li class="fragment">
+<img class="centered" src="img/fatiando-community-call.jpg"
+    style="max-width:700px !important">
+</li>
 </ul>
 
-<div class="fragment">
+---
+
+<!-- .slide: class="slide-transition" data-background-color="rgb(25, 34, 55)" -->
+
+<div class="centered">
+<div>
 
 **You are welcome to be a member and a contributor!**
 <i class="fas fa-rocket"></i>
+<i class="fas fa-rocket"></i>
 
+</div>
 </div>
 
 ---
