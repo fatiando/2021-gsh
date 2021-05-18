@@ -365,6 +365,39 @@ Fatiando in the wild
 
 ---
 
+# How to get started
+
+<ul class="fa-ul">
+
+<li class="fragment">
+<span class="fa-li"><i class="fab fa-python"></i></span>
+Not experienced with Python?
+    <ul style="margin: 1em 0 0 1em;">
+    <li>
+     <a href="https://swcarpentry.github.io/python-novice-inflammation/">Programming with Python</a>
+    </li>
+    <li>
+    <a href="https://swcarpentry.github.io/python-novice-gapminder/">Plotting and Programming in Python</a>
+    </li>
+    </ul>
+</li>
+
+<li class="fragment">
+<span class="fa-li"><i class="fab fa-youtube"></i></span>
+Tutorials about <a href="https://www.youtube.com/watch?v=-xZdNdvzm3E">Verde</a>
+and <a href="https://www.youtube.com/watch?v=0bxZcCAr6bwab_channel=SoftwareUnderground">Harmonica</a>
+</li>
+
+<li class="fragment">
+<span class="fa-li"> <i class="fas fa-book"></i> </span>
+Documentation for each library
+(links at <a href="https://www.fatiando.org">fatiando.org</a>)
+</li>
+
+</ul>
+
+---
+
 <!-- .slide: class="slide-transition" data-background-color="rgb(25, 34, 55)" -->
 
 <div class="centered">
@@ -381,7 +414,7 @@ it's a <strong>community</strong> <i class="fas fa-users"></i>
 
 ---
 
-## How to Get Involved
+# How to get involved
 
 There are many ways to participate, you can:
 
@@ -444,33 +477,6 @@ where we discuss development details and review code.
 
 </div>
 </div>
-
----
-
-## How to Get Started
-
-<ul style="list-style:none;">
-<li class="fragment">
-<i class="fa fa-book"></i> If you don’t have much experience with Python:
-    <ul style="margin-left:200px;">
-    <li><a href="https://swcarpentry.github.io/python-novice-inflammation/">Programming with Python</a>
-    </li>
-    <li>
-    <a href="https://swcarpentry.github.io/python-novice-gapminder/">Plotting and Programming in Python</a>
-    </li>
-    </ul>
-</li>
-<li class="fragment">
-<i class="fab fa-youtube"></i>
-Tutorials about <a href="https://www.youtube.com/watch?v=-xZdNdvzm3E">Verde</a>
-and <a href="https://www.youtube.com/watch?v=0bxZcCAr6bwab_channel=SoftwareUnderground">Harmonica</a>
-</li>
-<li class="fragment">
-<i class="fa fa-cog"></i>
-Take a look at the
-<a href="https://github.com/fatiando/contributing/blob/master/CONTRIBUTING.md"> Contributing guidelines</a>
-</li>
-</ul>
 
 ---
 
