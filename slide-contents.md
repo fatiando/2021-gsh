@@ -36,7 +36,7 @@ Feel free to screenshot/share/reuse/remix this presentation
 
 ---
 
-<!-- .slide: class="slide-transition" data-background-color="#222222" -->
+<!-- .slide: class="slide-transition" data-background-color="rgb(25, 34, 55)" -->
 
 <div class="centered">
 <div>
@@ -351,7 +351,7 @@ Repository for our **sample data** (uses Pooch)
 
 ---
 
-<!-- .slide: class="slide-transition" data-background-color="#222222" -->
+<!-- .slide: class="slide-transition" data-background-color="rgb(25, 34, 55)" -->
 
 <div class="centered">
 <div>
@@ -369,7 +369,7 @@ it's a <strong>community</strong> <i class="fas fa-users"></i>
 
 ## Fatiando in the wild
 
-<img src="img/papers.svg">
+<img src="assets/papers.svg">
 
 ---
 
@@ -432,7 +432,7 @@ where we discuss development details and review code.
 <a href="http://calendar.fatiando.org">Community Call</a>: regular video calls
 </li>
 <li class="fragment">
-<img class="centered" src="img/fatiando-community-call.jpg"
+<img class="centered" src="assets/fatiando-community-call.jpg"
     style="max-width:700px !important">
 </li>
 </ul>
