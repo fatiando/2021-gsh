@@ -416,21 +416,21 @@ it's a <strong>community</strong> <i class="fas fa-users"></i>
 
 # How to get involved
 
-There are many ways to participate, you can:
+There are many ways to participate:
 
 <div class="container">
 <div class="col-left">
 <ul>
-<li class="fragment"> Writing code</li>
-<li class="fragment">Improve documentation or examples</li>
+<li class="fragment">Write code</li>
+<li class="fragment">Work on documentation or examples</li>
 <li class="fragment">Give feedback</li>
 </lu>
 </div>
 <div class="col-right">
 <ul>
 <li class="fragment">Join the conversation</li>
-<li class="fragment">Share your experience </li>
-<li class="fragment">Help guide the future development</li>
+<li class="fragment">Share your experience</li>
+<li class="fragment">Help guide future development</li>
 </ul>
 </div>
 </div>
