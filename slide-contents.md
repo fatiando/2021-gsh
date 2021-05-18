@@ -351,15 +351,13 @@ Repository for our **sample data** (uses Pooch)
 
 ---
 
-<!-- .slide: class="slide-transition" data-background-color="rgb(25, 34, 55)" -->
+<!-- .slide: data-background-image="assets/papers.svg" data-background-size="contain" data-background-repeat="no-repeat" data-background-color="#ffffff" -->
 
 <div class="centered">
 <div>
 
-<h1>
-Fatiando is not just code <i class="fas fa-code"></i>
-<br>
-it's a <strong>community</strong> <i class="fas fa-users"></i>
+<h1 style="background-color: #000000bb; color: #ffffff; padding: 5px 40px;">
+Fatiando in the wild
 </h1>
 
 </div>
@@ -367,20 +365,16 @@ it's a <strong>community</strong> <i class="fas fa-users"></i>
 
 ---
 
-## Fatiando in the wild
-
-<img src="assets/papers.svg">
-
----
-
 <!-- .slide: class="slide-transition" data-background-color="rgb(25, 34, 55)" -->
 
 <div class="centered">
 <div>
 
-## **Fatiando** is not just an Open-source project, **it is a community**
-
-<i class="fas fa-users fa-2x"></i>
+<h1>
+More than just code <i class="fas fa-code"></i>
+<br>
+it's a <strong>community</strong> <i class="fas fa-users"></i>
+</h1>
 
 </div>
 </div>
