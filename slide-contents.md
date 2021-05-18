@@ -223,7 +223,119 @@ Unstable foundations for growth
 
 ---
 
-New tools
+<div class="container small">
+<div class="col">
+
+### ✨ New Fatiando ✨
+
+Split into libraries
+
+Better coding practices
+
+Use modern tools
+
+Supplement the ecosystem
+
+</div>
+<div class="col fragment">
+
+<a href="http://www.fatiando.org/pooch">
+<img class="project-logo center-block" src="assets/pooch-logo.svg">
+</a>
+
+Data <b>download & caching</b> (used by other libraries)
+
+<ul class="fa-ul project-icons">
+<li><i class="fa-li fab fa-github fa-fw" title="Github repository"></i>
+   <a href="https://github.com/fatiando/pooch">fatiando/pooch</a>
+</li>
+<li><i class="fa-li fas fa-bookmark fa-fw" title="Publication"></i>
+   doi: <a href="https://doi.org/10.21105/joss.01943">10.21105/joss.01943</a>
+</li>
+<li><i class="fa-li fa fa-check fa-fw" style="color: green" title="Project status"></i>
+   Stable and ready for use
+</li>
+</ul>
+
+</div>
+<div class="col fragment">
+
+<a href="http://www.fatiando.org/verde">
+<img class="project-logo center-block" src="assets/verde-logo.svg">
+</a>
+
+ML-based point data processing and <b>gridding</b>
+
+<ul class="fa-ul project-icons">
+<li><i class="fa-li fab fa-github fa-fw" title="Github repository"></i>
+   <a href="https://github.com/fatiando/verde">fatiando/verde</a>
+</li>
+<li><i class="fa-li fas fa-bookmark fa-fw" title="Publication"></i>
+   doi: <a href="https://doi.org/10.21105/joss.00957">10.21105/joss.00957</a>
+</li>
+<li><i class="fa-li fa fa-check fa-fw" style="color: green" title="Project status"></i>
+   Stable and ready for use
+</li>
+</ul>
+
+</div>
+</div>
+<div class="container small" style="margin-top: 4%">
+<div class="col fragment">
+
+<a href="http://www.fatiando.org/harmonica">
+<img class="project-logo center-block" src="assets/harmonica-logo.svg">
+</a>
+
+Processing and modeling <b>gravity & magnetic</b> data
+
+<ul class="fa-ul project-icons">
+<li><i class="fa-li fab fa-github fa-fw" title="Github repository"></i>
+   <a href="https://github.com/fatiando/harmonica">fatiando/harmonica</a>
+</li>
+<li><i class="fa-li fa fa-sync-alt fa-fw" style="color: green" title="Project status"></i>
+   Ready for use but still changing
+</li>
+</ul>
+
+</div>
+<div class="col fragment">
+
+<a href="http://www.fatiando.org/boule">
+<img class="project-logo center-block" src="assets/boule-logo.svg">
+</a>
+
+Reference <b>ellipsoids</b> for <b>normal gravity</b>
+
+<ul class="fa-ul project-icons">
+<li><i class="fa-li fab fa-github fa-fw" title="Github repository"></i>
+   <a href="https://github.com/fatiando/boule">fatiando/boule</a>
+</li>
+<li><i class="fa-li fa fa-sync-alt fa-fw" style="color: green" title="Project status"></i>
+   Ready for use but still changing
+</li>
+</ul>
+
+</div>
+<div class="col fragment">
+
+<a href="http://www.fatiando.org/rockhound">
+<img class="project-logo center-block" src="assets/rockhound-logo.svg">
+</a>
+
+Repository for our **sample data** (uses Pooch)
+
+<ul class="fa-ul project-icons">
+<li><i class="fa-li fab fa-github fa-fw" title="Github repository"></i>
+   <a href="https://github.com/fatiando/rockhound">fatiando/rockhound</a>
+</li>
+<li><i class="fa-li fa fa-flask fa-fw" style="color: orange" title="Project status"></i>
+    Early stages of design
+</li>
+</ul>
+
+</div>
+</div>
 
 ---
 
@@ -244,7 +356,11 @@ New tools
 <div class="centered">
 <div>
 
-# Fatiando is not just code,<br> it's a **community**
+<h1>
+Fatiando is not just code <i class="fas fa-code"></i>
+<br>
+it's a <strong>community</strong> <i class="fas fa-users"></i>
+</h1>
 
 </div>
 </div>

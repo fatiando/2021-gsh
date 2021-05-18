@@ -149,6 +149,11 @@
         padding: 0 0 0 2% !important;
         text-align: left;
     }
+    .col {
+        flex: 1;
+        padding: 0 2% !important;
+        text-align: left;
+    }
 
     // Tweaks to Reveal.js CSS
     section {
@@ -195,7 +200,15 @@
         text-transform: none;
         margin-bottom: 5%;
     }
-    h3, h4 {
+    h3 {
+        font-size: @basefontsize * 1;
+        font-weight: bold;
+        text-transform: none;
+        margin-bottom: 5%;
+    }
+    h4 {
+        font-size: @basefontsize * 1;
+        font-weight: normal;
         text-transform: none;
         margin-bottom: 5%;
     }
@@ -212,6 +225,14 @@
         &.fa-ul {
             list-style-type: none;
             margin: 0 0 0 1.5em;
+        }
+        &.project-icons {
+            margin: 0 0 0 1.6em;
+            font-size: @basefontsize * 0.55;
+            line-height: @basefontsize * 0.7;
+        }
+        &.project-icons > li {
+            margin-bottom: 5%;
         }
     }
     li {
