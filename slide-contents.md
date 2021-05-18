@@ -488,6 +488,20 @@ regular video calls open to everyone (not just developers)
 
 ---
 
+<div class="centered huge">
+<div>
+
+Find out more:
+[fatiando.org](https://www.fatiando.org)
+
+Slides + demo:
+[github.com/fatiando/2021-gsh](https://github.com/fatiando/2021-gsh)
+
+</div>
+</div>
+
+---
+
 <!-- .slide: class="slide-license" -->
 
 <div class="centered">
