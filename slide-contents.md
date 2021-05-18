@@ -24,9 +24,8 @@ Geophysical Society of Houston <span style="margin: 0 20px">|</span> 20 May 2021
 </div>
 
 <img src="assets/university-of-liverpool-white.png" class="title-logo">
-<!-- Replace with CONICET and San Juan logos -->
-<img src="assets/university-of-liverpool-white.png" class="title-logo">
-<img src="assets/university-of-liverpool-white.png" class="title-logo">
+<img src="assets/conicet.png" class="title-logo">
+<img src="assets/universidad-nacional-de-san-juan.png" class="title-logo">
 
 <i class="fab fa-twitter fa-fw"></i> [@fatiandoaterra](https://twitter.com/fatiandoaterra)
 <span style="margin: 0 20px">|</span>
@@ -156,7 +155,10 @@ Last update for **v0.5** (2016). doi:[10.5281/zenodo.157746](https://doi.org/10.
 <div class="container">
 <div class="col-left" style="padding-right: 5%">
 
-# <i class="far fa-thumbs-up" style="margin-right: 20px;"></i> The good parts
+<h1 style="color: #0000dd;">
+<i class="far fa-thumbs-up" style="margin-right: 20px;"></i>
+The good parts
+</h1>
 
 <hr>
 
@@ -174,12 +176,12 @@ Used in several thesis & papers (>70 citations)
 
 <li>
 <span class="fa-li"> <i class="fa fa-users fa-fw"></i> </span>
-3-4 active contributors
+2-3 active contributors
 </li>
 
 <li>
 <span class="fa-li"> <i class="fa fa-chalkboard-teacher fa-fw"></i> </span>
-Teaching through simulation
+Enabled teaching through simulation
 </li>
 
 </ul>
@@ -187,7 +189,10 @@ Teaching through simulation
 </div>
 <div class="col-right fragment" style="padding-left: 5%">
 
-# <i class="far fa-thumbs-down" style="margin-right: 20px;"></i> The bad parts
+<h1 style="color: #dd0000;">
+<i class="far fa-thumbs-down" style="margin-right: 20px;"></i>
+The bad parts
+</h1>
 
 <hr>
 
