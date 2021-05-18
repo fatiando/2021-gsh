@@ -443,25 +443,35 @@ There are many ways to participate:
 
 ---
 
-## How to Get Involved
+# Where to find us
 
-<ul style="list-style:none; text-align:left">
+<ul class="fa-ul">
+
 <li class="fragment">
-<i class="fab fa-slack"></i> <a href="http://contact.fatiando.org/">Slack</a>:
-where we chat about meetings, events, questions, experiences.
+<span class="fa-li"><i class="fab fa-slack"></i></span>
+<a href="http://contact.fatiando.org/">Slack</a>:
+where we chat about meetings, events, questions, experiences
 </li>
+
 <li class="fragment">
-<i class="fab fa-github"></i> <a href="https://github.com/fatiando/">GitHub</a>:
-where we discuss development details and review code.
+<span class="fa-li"><i class="fab fa-github"></i></span>
+<a href="https://github.com/fatiando/">GitHub</a>:
+where we discuss development details and review code
 </li>
+
 <li class="fragment">
-<i class="fa fa-microphone-alt"></i>
-<a href="http://calendar.fatiando.org">Community Call</a>: regular video calls
+<span class="fa-li"><i class="fa fa-microphone-alt"></i></span>
+<div class="container">
+<div class="col-left">
+<a href="https://github.com/fatiando/meeting-notes">Community Calls</a>:
+regular video calls open to everyone (not just developers)
+</div>
+<div class="col-right">
+<img src="assets/fatiando-community-call.jpg">
+</div>
+</div>
 </li>
-<li class="fragment">
-<img class="centered" src="assets/fatiando-community-call.jpg"
-    style="max-width:700px !important">
-</li>
+
 </ul>
 
 ---
@@ -471,9 +481,7 @@ where we discuss development details and review code.
 <div class="centered">
 <div>
 
-**You are welcome to be a member and a contributor!**
-<i class="fas fa-rocket"></i>
-<i class="fas fa-rocket"></i>
+# You are welcome as <br> a member or contributor! <br> <i class="fas fa-rocket"></i>
 
 </div>
 </div>
