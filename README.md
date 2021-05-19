@@ -9,11 +9,7 @@ to introduce the project, in particular Boule and Harmonica.
 |--:|:------|
 | When | 20 May 2021 16:00 UTC-5 |
 | Slides | https://www.fatiando.org/2021-gsh |
-| Jupyter Notebook (live demo) | https://mybinder.org/v2/gh/fatiando/2021-gsh/HEAD?filepath=demo.ipynb |
-
-## Notes and TODO
-
-* Available time: 40 mins (double check)
+| Demo notebook | https://mybinder.org/v2/gh/fatiando/2021-gsh/HEAD?filepath=demo.ipynb |
 
 ## Abstract
 
@@ -55,33 +51,31 @@ Get involved in the project:
 * Come to an open community call: https://www.youtube.com/playlist?list=PLPA_RM8wsOqIEBLICo3v7f_A1WnLcwJld
 * Follow Fatiando a Terra on Twitter: https://twitter.com/fatiandoaterra
 
-## Bios
+## Speaker bios
 
 ### Agustina Pesce
 
-<img src="https://raw.githubusercontent.com/aguspesce/aguspesce.github.io/master/imgs/about.jpg"
-    style="height: 300px">
+<img src="https://raw.githubusercontent.com/aguspesce/aguspesce.github.io/master/imgs/about.jpg" width="200px">
 
-PhD in Geophysics focused in applied geophysics, processing and analyzing gravity and magnetic data. Now she is studying the subduction zones through geodynamical numerical modeling.
+PhD in Geophysics focused in applied geophysics, processing and analyzing gravity and magnetic data. 
+ow she is studying the subduction zones through geodynamical numerical modeling.
 
 ### Santiago Soler
 
-<img src="https://santisoler.github.io/images/about.jpg"
-    style="height: 300px">
+<img src="https://santisoler.github.io/images/about.jpg" width="200px">
 
-Physicist and PhD Student in Geophysics. His research is focused on new methodologies for forward and inverse modelling potential field data. He is one of the core developers of Fatiando a Terra, leading the development of the Harmonica library for processing and modelling gravity and magentic data.
+Physicist and PhD Student in Geophysics. His research is focused on new methodologies for forward and 
+inverse modelling potential field data. He is one of the core developers of Fatiando a Terra, 
+leading the development of the Harmonica library for processing and modelling gravity and magentic data.
 
 ### Leonardo Uieda
 
-<img src="https://www.leouieda.com/images/profile/ness.jpg"
-    style="height: 300px">
+<img src="https://www.leouieda.com/images/profile/ness.jpg" width="200px">
 
-Geophysicist specializing in the development of methods for determining the inner structure of the Earth from geophysical observations, mainly disturbances in the Earth's gravity and magnetic fields. Developer of open-source software for processing, modeling, and visualizing geophysical data. Advocate for openness in the scientific process and the adoption of best practices in computational research.
-
-## Logo
-
-<img src="https://raw.githubusercontent.com/fatiando/logo/master/fatiando-logo-background.png" 
-    style="height: 300px">
+Geophysicist specializing in the development of methods for determining the inner structure of the Earth 
+from geophysical observations, mainly disturbances in the Earth's gravity and magnetic fields. 
+Developer of open-source software for processing, modeling, and visualizing geophysical data. 
+Advocate for openness in the scientific process and the adoption of best practices in computational research.
 
 ## License
 
