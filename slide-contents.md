@@ -351,13 +351,60 @@ Repository for our **sample data** (uses Pooch)
 
 ---
 
+<!-- .slide: data-background-image="assets/papers.svg" data-background-size="contain" data-background-repeat="no-repeat" data-background-color="#ffffff" -->
+
+<div class="centered">
+<div>
+
+<h1 style="background-color: #000000bb; color: #ffffff; padding: 5px 40px;">
+Fatiando in the wild
+</h1>
+
+</div>
+</div>
+
+---
+
+# How to get started
+
+<ul class="fa-ul">
+
+<li class="fragment">
+<span class="fa-li"><i class="fab fa-python"></i></span>
+Not experienced with Python?
+    <ul style="margin: 1em 0 0 1em;">
+    <li>
+     <a href="https://swcarpentry.github.io/python-novice-inflammation/">Programming with Python</a>
+    </li>
+    <li>
+    <a href="https://swcarpentry.github.io/python-novice-gapminder/">Plotting and Programming in Python</a>
+    </li>
+    </ul>
+</li>
+
+<li class="fragment">
+<span class="fa-li"><i class="fab fa-youtube"></i></span>
+Tutorials about <a href="https://www.youtube.com/watch?v=-xZdNdvzm3E">Verde</a>
+and <a href="https://www.youtube.com/watch?v=0bxZcCAr6bwab_channel=SoftwareUnderground">Harmonica</a>
+</li>
+
+<li class="fragment">
+<span class="fa-li"> <i class="fas fa-book"></i> </span>
+Documentation for each library
+(links at <a href="https://www.fatiando.org">fatiando.org</a>)
+</li>
+
+</ul>
+
+---
+
 <!-- .slide: class="slide-transition" data-background-color="rgb(25, 34, 55)" -->
 
 <div class="centered">
 <div>
 
 <h1>
-Fatiando is not just code <i class="fas fa-code"></i>
+More than just code <i class="fas fa-code"></i>
 <br>
 it's a <strong>community</strong> <i class="fas fa-users"></i>
 </h1>
@@ -367,43 +414,23 @@ it's a <strong>community</strong> <i class="fas fa-users"></i>
 
 ---
 
-## Fatiando in the wild
+# How to get involved
 
-<img src="assets/papers.svg">
-
----
-
-<!-- .slide: class="slide-transition" data-background-color="rgb(25, 34, 55)" -->
-
-<div class="centered">
-<div>
-
-## **Fatiando** is not just an Open-source project, **it is a community**
-
-<i class="fas fa-users fa-2x"></i>
-
-</div>
-</div>
-
----
-
-## How to Get Involved
-
-There are many ways to participate, you can:
+There are many ways to participate:
 
 <div class="container">
 <div class="col-left">
 <ul>
-<li class="fragment"> Writing code</li>
-<li class="fragment">Improve documentation or examples</li>
+<li class="fragment">Write code</li>
+<li class="fragment">Work on documentation or examples</li>
 <li class="fragment">Give feedback</li>
 </lu>
 </div>
 <div class="col-right">
 <ul>
 <li class="fragment">Join the conversation</li>
-<li class="fragment">Share your experience </li>
-<li class="fragment">Help guide the future development</li>
+<li class="fragment">Share your experience</li>
+<li class="fragment">Help guide future development</li>
 </ul>
 </div>
 </div>
@@ -416,25 +443,35 @@ There are many ways to participate, you can:
 
 ---
 
-## How to Get Involved
+# Where to find us
 
-<ul style="list-style:none; text-align:left">
+<ul class="fa-ul">
+
 <li class="fragment">
-<i class="fab fa-slack"></i> <a href="http://contact.fatiando.org/">Slack</a>:
-where we chat about meetings, events, questions, experiences.
+<span class="fa-li"><i class="fab fa-slack"></i></span>
+<a href="http://contact.fatiando.org/">Slack</a>:
+where we chat about meetings, events, questions, experiences
 </li>
+
 <li class="fragment">
-<i class="fab fa-github"></i> <a href="https://github.com/fatiando/">GitHub</a>:
-where we discuss development details and review code.
+<span class="fa-li"><i class="fab fa-github"></i></span>
+<a href="https://github.com/fatiando/">GitHub</a>:
+where we discuss development details and review code
 </li>
+
 <li class="fragment">
-<i class="fa fa-microphone-alt"></i>
-<a href="http://calendar.fatiando.org">Community Call</a>: regular video calls
+<span class="fa-li"><i class="fa fa-microphone-alt"></i></span>
+<div class="container">
+<div class="col-left">
+<a href="https://github.com/fatiando/meeting-notes">Community Calls</a>:
+regular video calls open to everyone (not just developers)
+</div>
+<div class="col-right">
+<img src="assets/fatiando-community-call.jpg">
+</div>
+</div>
 </li>
-<li class="fragment">
-<img class="centered" src="assets/fatiando-community-call.jpg"
-    style="max-width:700px !important">
-</li>
+
 </ul>
 
 ---
@@ -444,39 +481,24 @@ where we discuss development details and review code.
 <div class="centered">
 <div>
 
-**You are welcome to be a member and a contributor!**
-<i class="fas fa-rocket"></i>
-<i class="fas fa-rocket"></i>
+# You are welcome as <br> a member or contributor! <br> <i class="fas fa-rocket"></i>
 
 </div>
 </div>
 
 ---
 
-## How to Get Started
+<div class="centered huge">
+<div>
 
-<ul style="list-style:none;">
-<li class="fragment">
-<i class="fa fa-book"></i> If you don’t have much experience with Python:
-    <ul style="margin-left:200px;">
-    <li><a href="https://swcarpentry.github.io/python-novice-inflammation/">Programming with Python</a>
-    </li>
-    <li>
-    <a href="https://swcarpentry.github.io/python-novice-gapminder/">Plotting and Programming in Python</a>
-    </li>
-    </ul>
-</li>
-<li class="fragment">
-<i class="fab fa-youtube"></i>
-Tutorials about <a href="https://www.youtube.com/watch?v=-xZdNdvzm3E">Verde</a>
-and <a href="https://www.youtube.com/watch?v=0bxZcCAr6bwab_channel=SoftwareUnderground">Harmonica</a>
-</li>
-<li class="fragment">
-<i class="fa fa-cog"></i>
-Take a look at the
-<a href="https://github.com/fatiando/contributing/blob/master/CONTRIBUTING.md"> Contributing guidelines</a>
-</li>
-</ul>
+Find out more:
+[fatiando.org](https://www.fatiando.org)
+
+Slides + demo:
+[github.com/fatiando/2021-gsh](https://github.com/fatiando/2021-gsh)
+
+</div>
+</div>
 
 ---
 
