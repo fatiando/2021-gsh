@@ -1,5 +1,7 @@
 # Fatiando a Terra: Open-source tools for geophysics
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fatiando/2021-gsh/HEAD?filepath=demo.ipynb)
+
 Online talk given to the Geophysical Society of Houston (GSH) in 2021
 to introduce the project, in particular Boule and Harmonica.
 
@@ -7,7 +9,7 @@ to introduce the project, in particular Boule and Harmonica.
 |--:|:------|
 | When | 20 May 2021 16:00 UTC-5 |
 | Slides | https://www.fatiando.org/2021-gsh |
-| Demo notebook | Add link to nbviewer |
+| Demo notebook | https://mybinder.org/v2/gh/fatiando/2021-gsh/HEAD?filepath=demo.ipynb |
 
 ## Abstract
 
