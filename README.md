@@ -70,7 +70,7 @@ leading the development of the Harmonica library for processing and modelling gr
 
 ### Leonardo Uieda
 
-<img src="https://www.leouieda.com/images/profile/ness.jpg" width="200px">
+<img src="https://github.com/leouieda.png" width="200px">
 
 Geophysicist specializing in the development of methods for determining the inner structure of the Earth 
 from geophysical observations, mainly disturbances in the Earth's gravity and magnetic fields. 
