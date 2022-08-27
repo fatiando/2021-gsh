@@ -58,7 +58,7 @@ Get involved in the project:
 <img src="https://raw.githubusercontent.com/aguspesce/aguspesce.github.io/master/imgs/about.jpg" width="200px">
 
 PhD in Geophysics focused in applied geophysics, processing and analyzing gravity and magnetic data. 
-ow she is studying the subduction zones through geodynamical numerical modeling.
+Now she is studying the subduction zones through geodynamical numerical modeling.
 
 ### Santiago Soler
 
